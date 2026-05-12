@@ -6,7 +6,6 @@ Date Last Modified: May 12, 2026
 */
 
 import java.util.HashMap;
-import java.util.ArrayList;
 
 public class PracticeProblem {
 
